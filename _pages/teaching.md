@@ -7,8 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-### COEN 6311: Software Engineering
+#### COEN 6311: Software Engineering
 
-### COEN 6313: Programming On Cloud
+#### COEN 6313: Programming On Cloud
 
-### COEN 6731: Distributed Software Systems
+#### COEN 6731: Distributed Software Systems
